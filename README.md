@@ -24,5 +24,5 @@
 
 
 
-![Snake animation](https://github.com/rosangelahb/rosangelahb/blob/output/github-contribution-grid-snake.svg)
+
 
